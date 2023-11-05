@@ -21,7 +21,7 @@
 Spoofer spoofs the system <b>permanently</b> (until you reinstall windows, but that's not certain🤑🤑)
 </p>
 <p>
-💀 Spoofer 100% support Gigabyte and Asus motherboard's.
+💀 Spoofer 100% supports Gigabyte and Asus motherboard's.
 </p>
 
 <h1>Installing</h1>
