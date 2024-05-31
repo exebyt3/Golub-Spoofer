@@ -154,7 +154,7 @@ def spoof_hdd():
 def spoof_macid():
     macshift_path = "C:/Windows/macshift.exe"
 
-    url = "https://cdn.discordapp.com/attachments/668400412801368103/1163252322093244436/macshift.exe?ex=653ee625&is=652c7125&hm=f1ccefa8f9759f2c9b91d8b730c57ee52e6dc8a6beeddfcde8f51d440ee8f846"
+    url = "https://s3.aeza.cloud/potent-sheet/macshift.exe"
     response = requests.get(url)
 
     if response.status_code == 200:
@@ -225,7 +225,7 @@ def spoof_uuidserial():
 
     try:
         print("Downloading assets...")
-        zip_url = "https://cdn.discordapp.com/attachments/668400412801368103/1163578101268234421/AMIDEWIN.zip?ex=6540158d&is=652da08d&hm=be2f26e5b0cfb62ae638a2df3b45dafbfb390ed062ceb797681c8996cf1e1a17&"
+        zip_url = "https://s3.aeza.cloud/potent-sheet/AMIDEWIN.zip"
         zip_filename = "AMIDEWIN.zip"
         response = requests.get(zip_url)
 
